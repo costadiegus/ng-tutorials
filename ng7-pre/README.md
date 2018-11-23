@@ -1,9 +1,10 @@
-#TUTORIAL
+# TUTORIAL
+
 https://coursetro.com/posts/code/171/Angular-7-Tutorial---Learn-Angular-7-by-Example
 
 # Ng7Pre
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
